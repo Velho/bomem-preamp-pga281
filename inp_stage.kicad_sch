@@ -1,0 +1,95 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "0e99677b-bac0-462f-bcae-9cab8cfd085d")
+	(paper "A4")
+	(lib_symbols)
+	(text "DUMMY\nAdd stuff if needed"
+		(exclude_from_sim no)
+		(at 122.936 72.644 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "c1530d5c-c4e5-4d5e-810d-fb1563249d57")
+	)
+	(hierarchical_label "INN"
+		(shape output)
+		(at 180.34 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "66b499f3-6573-4511-92cc-e7da25640c78")
+	)
+	(hierarchical_label "GAIN4"
+		(shape output)
+		(at 180.34 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "774ae8c9-907a-4ddf-8dfc-a65e2736c3ff")
+	)
+	(hierarchical_label "GAIN0"
+		(shape output)
+		(at 180.34 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "87308bd5-deb8-43e0-87c4-a5fb3f8b2aa6")
+	)
+	(hierarchical_label "GAIN1"
+		(shape output)
+		(at 180.34 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bd717cec-89ef-4f66-8ad3-ab6c628c4008")
+	)
+	(hierarchical_label "INP"
+		(shape output)
+		(at 180.34 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c7efb21d-93bd-4207-940c-cc36af391720")
+	)
+	(hierarchical_label "GAIN2"
+		(shape output)
+		(at 180.34 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d2986978-5a29-448c-b616-65983cc5a023")
+	)
+	(hierarchical_label "GAIN3"
+		(shape output)
+		(at 180.34 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e7f30a64-53e7-4722-8838-3d7df3d55ea2")
+	)
+)
